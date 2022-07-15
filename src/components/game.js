@@ -1,6 +1,6 @@
 import React from 'react';
 
-import '../index.css';
+import '.../index.css';
 import Board from './board.js';
 import King from '../pieces/king'
 import FallenSoldierBlock from './fallen-soldier-block.js';
