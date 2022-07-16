@@ -1,6 +1,6 @@
 # CHESS GAME MADE USING ES6 CLASSES AND CLASS COMPONENTS
 
-### enable autorotate in small screen devices
+### Enable autorotate in small screen devices
 
 ### HOW IT IS BUILT 
 ES6 classes have been used for chess pieces. Piece is a parent class to which King, Queen, Bishop, Knight, Rook and Pawn extend. Board of squares is filled with these pieces and null.
