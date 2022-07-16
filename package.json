@@ -16,7 +16,7 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://talhaawan.github.io/react-chess",
+  
   "browserslist": {
     "production": [
       ">0.2%",
