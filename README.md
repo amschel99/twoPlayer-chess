@@ -6,3 +6,11 @@ ES6 classes have been used for chess pieces. Piece is a parent class to which Ki
 Game component maintains the board of squares filled with pieces, and handles turn and move of both players.
 
 Each piece implements isMovePossible(src, dest) and getSrcToDestPath(src, dest) methods which Game uses to identify legality of move and to render UI accordingly.
+
+
+## HOW TO GET STARTED 
+git clone
+
+npm install
+
+npm start
