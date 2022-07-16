@@ -9,7 +9,7 @@ Each piece implements isMovePossible(src, dest) and getSrcToDestPath(src, dest) 
 
 
 ## HOW TO GET STARTED 
-git clone
+git clone https://github.com/amschel99/twoPlayer-chess.git
 
 npm install
 
